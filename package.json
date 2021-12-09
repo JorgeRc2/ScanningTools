@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "live-server src"
   },
-  AWS_DATAVAULT_KEY: **********
   "keywords": [],
   "author": "",
   "license": "ISC",
