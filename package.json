@@ -1,4 +1,6 @@
 {
+
+  AWS_DATAVAULT_KEY:  ********************
   "name": "bootstrap4-website-landing-page",
   "version": "1.0.0",
   "description": "",
