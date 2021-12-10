@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "live-server src"
+AWS_DATAVAULT_KEY: 'AKIAYHLOT24NMOPIOXG7'
   },
   "keywords": [],
   "author": "",
