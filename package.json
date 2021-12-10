@@ -1,6 +1,6 @@
 {
 
-AWS_DATAVAULT_KEY: 'AKIAYHLOT24NMOPIOXG7'
+  AWS_DATAVAULT_KEY:'AKIAYHLOT24NMOPIOXG7'
   "name": "bootstrap4-website-landing-page",
   "version": "1.0.0",
   "description": "",
